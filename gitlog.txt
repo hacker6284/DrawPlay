@@ -1,0 +1,48 @@
+commit 4e98b147e4e873cd7632a60bd8c3df82a48971ac
+Author: Dominic Quintana <dquintana@mymail.mines.edu>
+Date:   Thu Feb 22 11:32:45 2018 -0700
+
+    Changed mouth color from pink to blue
+
+commit 1f726bd75224c0e5ec2d4c0abd1e2308bc788b7e
+Merge: 2838803 009a7bd
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:25:49 2018 -0700
+
+    Merge branch 'master' of https://github.com/hacker6284/DrawPlay
+
+commit 009a7bdf28f9e79871f3d81c5b745479e8d6e343
+Author: Dominic Quintana <dquintana@mymail.mines.edu>
+Date:   Thu Feb 22 11:23:57 2018 -0700
+
+    Changed where the frame displays in paintComponent
+
+commit 2838803953e04adf645d582bed47d5b9902a28df
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:23:40 2018 -0700
+
+    Made mouth taller and made cat angry
+
+commit b1768aabe5936cc377c6d2dd59196f9ab410db62
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:22:03 2018 -0700
+
+    Changed eye color
+
+commit e7cd51107518c645dfda46c83b4e4490c03b260a
+Author: Dominic Quintana <dquintana@mymail.mines.edu>
+Date:   Thu Feb 22 11:21:35 2018 -0700
+
+    Changed setSize parameters to 600, 600
+
+commit d26604e214ac2fabad05047dfee6b5ef555c17e1
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:20:24 2018 -0700
+
+    Made eyes bigger
+
+commit 8c4d2663e058b8c346aed12e8d497de8be389214
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:13:25 2018 -0700
+
+    initial commit
