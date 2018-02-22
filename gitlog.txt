@@ -1,3 +1,15 @@
+commit 69e430d9440a15d98bcadfd5d1a3a5421f7b9744
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:35:39 2018 -0700
+
+    added comments for our names
+
+commit ca5e4eb963559f0d99627d016f3dbe5efd45deb0
+Author: Zach Mills <ztmills@mymail.mines.edu>
+Date:   Thu Feb 22 11:34:15 2018 -0700
+
+    Added log file
+
 commit 4e98b147e4e873cd7632a60bd8c3df82a48971ac
 Author: Dominic Quintana <dquintana@mymail.mines.edu>
 Date:   Thu Feb 22 11:32:45 2018 -0700
